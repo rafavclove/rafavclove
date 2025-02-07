@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-   <a href="https://youtube.com/DevMenteCreativa" target="blank">
+   <a href="https://youtube.com/DevMenteCreativa" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="midudev" height="23px" width="33px" />
   </a>
 </p>
